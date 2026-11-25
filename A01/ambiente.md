@@ -7,7 +7,7 @@
 | python -m sqlite3 -v | SQLite version 3.45.3 | não se aplica |
 | python -m tkinter abriu? | Sim (janela aberta) | não se aplica |
 
-Mesmo Python nos dois meios? Não, ouve uma diferença 
+Mesmo Python nos dois meios? Não, ouve diferenças nos números das versões.
 Pendências e mensagens de erro: Tô acertando tudo de primeira por hora
 
 ## Observações
